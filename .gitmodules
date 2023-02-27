@@ -10,3 +10,6 @@
 [submodule "instrumented-reefer-ms"]
 	path = instrumented-reefer-ms
 	url = https://github.com/gerbeu/reefer-ms.git
+[submodule "jaeger-ui-erweiterung"]
+	path = jaeger-ui-erweiterung
+	url = https://github.com/gerbeu/jaeger-ui.git
