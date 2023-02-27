@@ -1,3 +1,12 @@
 [submodule "jaeger-ui-erweiterung-backend-anwendung"]
 	path = jaeger-ui-erweiterung-backend-anwendung
 	url = https://github.com/gerbeu/EventsTraceToBPMNChorConverter.git
+[submodule "instrumented-order-ms"]
+	path = instrumented-order-ms
+	url = https://github.com/gerbeu/order-ms.git
+[submodule "instrumented-voyage-ms"]
+	path = instrumented-voyage-ms
+	url = https://github.com/gerbeu/voyage-ms.git
+[submodule "instrumented-reefer-ms"]
+	path = instrumented-reefer-ms
+	url = https://github.com/gerbeu/reefer-ms.git
