@@ -1,0 +1,1 @@
+# Ressourcen der Bachelor-Thesis
