@@ -1,0 +1,3 @@
+[submodule "jaeger-ui-erweiterung-backend-anwendung"]
+	path = jaeger-ui-erweiterung-backend-anwendung
+	url = https://github.com/gerbeu/EventsTraceToBPMNChorConverter.git
